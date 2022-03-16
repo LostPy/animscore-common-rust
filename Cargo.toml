@@ -1,0 +1,12 @@
+[package]
+name = "animscore-common"
+version = "0.1.0"
+edition = "2021"
+authors = ["LostPy"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "animscore_common"
+crate-type = ["lib"]
+
+[dependencies]
