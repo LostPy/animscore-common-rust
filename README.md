@@ -2,6 +2,7 @@
 
 A crate for common features of AnimScore project, a project to calcul a score for anime and manga.
 
+**Important:** it's a little project to train myself with the rust programming language.
 
 ## getting started
 
